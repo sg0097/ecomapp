@@ -25,8 +25,8 @@ With Metro running, open a new terminal window/pane from the root of your React 
 ### Android
 
 ```sh
-# Using npm
-npm run android
+# Using npx
+npx react-native run-android
 
 # OR using Yarn
 yarn android
